@@ -1,6 +1,6 @@
 # Facit – modul 08 Power BI
 
-**Fil:** [data/oefning-bi-export.csv](data/oefning-bi-export.csv) (samma spine som modul 01, BI-kolumner)
+**Fil:** [data/exercise-bi-export.csv](data/exercise-bi-export.csv) (samma spine som modul 01, BI-kolumner)
 
 ## Facilitator
 

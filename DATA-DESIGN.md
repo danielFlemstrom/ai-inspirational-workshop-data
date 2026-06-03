@@ -53,7 +53,7 @@ Datasetet ska vara **pedagogiskt manipulerat**, inte maximalt realistiskt.
 | `fastighet-manad.csv` | Huvudkälla – moduler 01–05 |
 | `manadsnotiser.txt` | Fritext – förklarar delvis mönster |
 | `koncern-manad.csv` | Aggregering – modul 02 |
-| `oefning-bi-export.csv` | BI-export – modul 08 |
+| `exercise-bi-export.csv` | BI-export – modul 08 |
 
 ## Planterade mönster
 

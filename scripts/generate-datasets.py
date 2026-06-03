@@ -211,7 +211,7 @@ def tier_s_pbi_export(fastighet_rows: list[list]) -> None:
         "energi_kwh",
     ]
     rows = [[row[0], row[1], row[2], row[3], row[4], row[5], row[6]] for row in fastighet_rows]
-    write_csv(DAY1 / "modul-08-power-bi/data/oefning-bi-export.csv", header, rows)
+    write_csv(DAY1 / "modul-08-power-bi/data/exercise-bi-export.csv", header, rows)
 
 
 def tier_s_facit_json(fastighet_rows: list[list]) -> None:

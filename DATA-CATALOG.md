@@ -7,7 +7,7 @@ Fiktiv **Acme Norden AB**. **Flavor:** `ekonomi`. Se [DATA-POLICY.md](DATA-POLIC
 **Huvudfil:** `modul-01-analys/data/fastighet-manad.csv` (7 fastigheter × 8 månader)  
 **Notiser:** `modul-01-analys/data/manadsnotiser.txt`  
 **Aggregerat:** `modul-02-granskning/data/koncern-manad.csv`  
-**PBI-export:** `modul-08-power-bi/data/oefning-bi-export.csv`
+**PBI-export:** `modul-08-power-bi/data/exercise-bi-export.csv`
 
 | Modul | Fil(er) | Innehåll | Tier |
 |-------|---------|----------|------|
@@ -19,7 +19,7 @@ Fiktiv **Acme Norden AB**. **Flavor:** `ekonomi`. Se [DATA-POLICY.md](DATA-POLIC
 | 05 Generering | `bullets-in.txt` | Bullets Q2 från spine | S |
 | 06 Quick wins | `quick-win-mall.md` | Mall | — |
 | 07 Context | `demo.json` (TODO) | Capstone | — |
-| 08 Power BI | `oefning-bi-export.csv` | BI-export (spine) | S |
+| 08 Power BI | `exercise-bi-export.csv` | BI-export (spine) | S |
 
 ### Planterade mönster (facit)
 
