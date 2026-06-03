@@ -34,10 +34,27 @@ Facit: `modul-01-analys/facit.md` · `modul-01-analys/facit/spine-patterns.json`
 
 ## Dag 2 (tier M/L)
 
-| Modul | Fil | Tier |
-|-------|-----|------|
-| 21 | `medium-leases-120r.csv` | M |
-| 21 | `sampling-trap-600r.csv` | L |
+| Modul | Fil | Innehåll | Tier |
+|-------|-----|----------|------|
+| 21 | `medium-leases-120r.csv` | Hyreskontrakt (lease_id, property, region, rent_ksek, status) | M |
+| 21 | `sampling-trap-600r.csv` | Transaktioner, outlier rad 512 RECON_EXCEPTION_Q2 | L |
+| 22 | *(delar modul-21)* `medium-leases-120r.csv` | Stegvis styrning – samma M-fil | M |
+| 23 | `case-brief-acme-cfo.md` | CFO-brief (fiktiv) | — |
+| 23 | *(länk dag 1)* `modul-08-power-bi/data/exercise-bi-export.csv` | Standard BI-export för kundcase | S |
+| 24 | `prompt-spar-mall.md` | Sparad prompt + metadata | — |
+| 24 | *(länk dag 1)* `modul-06-quick-wins/data/quick-win-mall.md` | Koppling quick wins | — |
+
+**Facit dag 2:**
+
+| Modul | Facit |
+|-------|-------|
+| 21 | `modul-21-rorig-data/facit.md` · `facit/sampling-trap-600r.json` |
+| 22 | `modul-22-styrning/facit.md` |
+| 23 | `modul-23-kundcase/facit.md` |
+
+### Beslut: kaos-xlsx (D2-B6)
+
+`07-kaos-delvis.xlsx` är **inte** genererad. Format- och längd-demo sker via **CSV tier M** (`medium-leases-120r.csv`). Om xlsx behövs senare: lägg i modul-21 och uppdatera denna katalog.
 
 ---
 
