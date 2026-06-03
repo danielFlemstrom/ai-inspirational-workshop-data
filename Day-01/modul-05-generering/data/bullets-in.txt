@@ -1,0 +1,9 @@
+Input till ledningskommentar (fiktiv Acme Q2 2025) – skriv ENDAST utkast utifrån dessa punkter:
+
+- Alpha: lease incentive juni (engång) – 12,0 MSEK den månaden
+- Delta: energi stiger ~3 % per månad – trend Q2
+- Gamma: energitopp juni (ventilation felanmälan)
+- Beta: OPEX över plan (takunderhåll)
+- Eta (Syd): intäkt upp trots högre vakans % – ny hyresgäst + index (förklara försiktigt)
+- Zeta: serviceärenden och energi upp – hypotes, ej verifierad orsak
+- Ton: saklig, kort, svenska, max 120 ord

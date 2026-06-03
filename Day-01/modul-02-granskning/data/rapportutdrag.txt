@@ -1,0 +1,17 @@
+Acme Norden AB – Utdrag management commentary (utkast, fiktivt)
+
+Q2 2025 (apr–jun)
+
+Koncernintäkter +6 % jämfört med Q1, driven av Alpha lease incentive i juni och index i Syd.
+Delta: energikostnader stiger – intern uppföljning pågår (uppskattat +15 % Q2, ej verifierat mot bilaga).
+Gamma: engångseffekt juni p.g.a. felanmälan ventilation.
+
+Syd intäkter “oförändrade” enligt sammanfattning nedan – se bilaga fastighet-manad.csv för Eta/Zeta.
+
+OPEX under budget koncern totalt utom Beta underhåll (+8 % vs budget Q2).
+
+June Alpha engångsintäkt – se not 7 i delårsrapporten.
+
+INGEN VÄSENTLIG HÄNDELSE efter periodens utgång enligt CFO. (fel: styrelsen har inte godkänt denna formulering än)
+
+Bilaga: koncern-manad.csv och fastighet-manad.csv (ej bifogade i denna övning).

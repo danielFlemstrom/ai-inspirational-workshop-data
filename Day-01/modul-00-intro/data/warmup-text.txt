@@ -1,0 +1,9 @@
+Acme Norden AB – intern notis (fiktiv övningsdata)
+
+Q2 2025 i korthet:
+- Delta: energiförbrukning stiger ~3 % per månad – facility följer upp.
+- Alpha: engångseffekt i juni (lease incentive) – se fastighet-manad.csv.
+- Gamma: energitopp i juni efter felanmälan ventilation.
+- Eta (Syd): intäkt upp trots högre vakans % – ny hyresgäst Malmö + index, inte en enkel orsak–verkan.
+
+Använd endast i workshopövningen.

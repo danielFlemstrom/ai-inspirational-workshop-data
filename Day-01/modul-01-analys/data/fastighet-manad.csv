@@ -1,0 +1,57 @@
+fastighet,region,period,intakt_msek,opex_msek,vakans_pct,energi_kwh,service_arenden,kommentar
+Alpha,Norden,2025-01,4.2,3.2,1.5,9500,1,
+Alpha,Norden,2025-02,4.3,3.2,1.5,9500,1,
+Alpha,Norden,2025-03,4.1,3.1,1.4,9500,2,
+Alpha,Norden,2025-04,4.4,3.2,1.5,9500,1,
+Alpha,Norden,2025-05,4.5,3.2,1.5,9500,2,
+Alpha,Norden,2025-06,12.0,3.3,1.5,9500,1,ENGANGSINTAKT LEASE INCENTIVE
+Alpha,Norden,2025-07,4.6,3.2,1.4,9500,1,
+Alpha,Norden,2025-08,4.5,3.2,1.5,9500,2,
+Beta,Norden,2025-01,3.5,2.8,2.0,7100,2,
+Beta,Norden,2025-02,3.5,2.85,2.0,7150,2,
+Beta,Norden,2025-03,3.4,2.9,2.1,7200,3,PLANERAT TAKUNDERHALL
+Beta,Norden,2025-04,3.5,2.95,2.0,7250,3,
+Beta,Norden,2025-05,3.5,3.05,2.0,7300,4,
+Beta,Norden,2025-06,3.5,3.15,2.0,7350,4,
+Beta,Norden,2025-07,3.6,3.25,2.1,7400,5,
+Beta,Norden,2025-08,3.5,3.35,2.0,7450,5,UNDERHALL KLART
+Delta,Norden,2025-01,5.0,3.8,1.8,10000,1,
+Delta,Norden,2025-02,5.0,3.9,1.8,10300,1,
+Delta,Norden,2025-03,5.1,4.0,1.7,10609,2,ENERGI UPPTREND
+Delta,Norden,2025-04,5.0,4.0,1.8,10927,2,
+Delta,Norden,2025-05,5.1,4.1,1.8,11255,2,
+Delta,Norden,2025-06,5.0,4.2,1.8,11593,3,
+Delta,Norden,2025-07,5.1,4.3,1.7,11941,3,
+Delta,Norden,2025-08,5.0,4.4,1.8,12299,3,
+Gamma,Norden,2025-01,2.8,2.1,3.2,7800,2,
+Gamma,Norden,2025-02,2.8,2.1,3.1,7900,2,
+Gamma,Norden,2025-03,2.9,2.2,3.0,8000,3,
+Gamma,Norden,2025-04,2.8,2.1,3.1,8100,3,
+Gamma,Norden,2025-05,2.9,2.2,3.0,8000,4,
+Gamma,Norden,2025-06,2.8,2.3,3.2,10800,8,FELANMALNING VENTILATION
+Gamma,Norden,2025-07,2.9,2.2,3.1,8200,3,
+Gamma,Norden,2025-08,2.8,2.1,3.0,8100,2,
+Epsilon,Syd,2025-01,2.8,2.2,2.4,6000,1,
+Epsilon,Syd,2025-02,2.8,2.2,2.4,6050,1,
+Epsilon,Syd,2025-03,2.9,2.2,2.3,6100,1,
+Epsilon,Syd,2025-04,2.8,2.3,2.4,6080,2,
+Epsilon,Syd,2025-05,2.8,2.2,2.4,6120,1,
+Epsilon,Syd,2025-06,2.9,2.2,2.4,6100,1,
+Epsilon,Syd,2025-07,2.8,2.3,2.3,6080,1,
+Epsilon,Syd,2025-08,2.8,2.2,2.4,6100,1,
+Zeta,Syd,2025-01,2.6,2.0,2.5,6200,1,
+Zeta,Syd,2025-02,2.6,2.0,2.5,6250,1,
+Zeta,Syd,2025-03,2.7,2.1,2.4,6300,2,
+Zeta,Syd,2025-04,2.6,2.1,2.5,6500,4,FLER SERVICEARENDEN
+Zeta,Syd,2025-05,2.7,2.2,2.5,6800,7,
+Zeta,Syd,2025-06,2.7,2.3,2.5,7200,10,KYLA/VENTILATION
+Zeta,Syd,2025-07,2.8,2.4,2.4,7800,14,
+Zeta,Syd,2025-08,2.8,2.5,2.5,8400,18,
+Eta,Syd,2025-01,3.1,2.3,2.1,6400,1,
+Eta,Syd,2025-02,3.1,2.3,2.3,6450,2,NY HYRESGAST MALMO
+Eta,Syd,2025-03,3.2,2.4,2.8,6500,2,
+Eta,Syd,2025-04,3.4,2.4,3.2,6550,2,
+Eta,Syd,2025-05,3.5,2.5,3.8,6600,3,
+Eta,Syd,2025-06,3.8,2.5,4.2,6650,3,
+Eta,Syd,2025-07,4.0,2.6,4.5,6700,3,INDEXJUSTERING HYRA
+Eta,Syd,2025-08,4.1,2.6,4.8,6750,2,

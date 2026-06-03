@@ -1,0 +1,36 @@
+{
+  "tier": "S",
+  "flavor": "ekonomi",
+  "fil": "fastighet-manad.csv",
+  "rader": 56,
+  "monster": {
+    "trend_energi_delta": {
+      "fastighet": "Delta",
+      "beskrivning": "energi_kwh ~+3 % per månad jan–aug"
+    },
+    "avvikelse_energi_gamma": {
+      "fastighet": "Gamma",
+      "period": "2025-06",
+      "beskrivning": "energi +35 % mot maj (10800 vs 8000)"
+    },
+    "avvikelse_intakt_alpha": {
+      "fastighet": "Alpha",
+      "period": "2025-06",
+      "intakt_msek": 12.0,
+      "kommentar": "ENGANGSINTAKT LEASE INCENTIVE"
+    },
+    "trend_opex_beta": {
+      "fastighet": "Beta",
+      "beskrivning": "opex_msek stiger varje månad"
+    },
+    "samband_zeta": {
+      "fastighet": "Zeta",
+      "beskrivning": "service_arenden och energi_kwh stiger tillsammans"
+    },
+    "falskt_samband_eta": {
+      "fastighet": "Eta",
+      "beskrivning": "vakans_pct stiger medan intakt_msek också stiger – ny hyresgäst/index, inte orsakverkan",
+      "diskussion": "AI kan felaktigt skylla intäktsuppgång på vakans eller tvärtom"
+    }
+  }
+}
